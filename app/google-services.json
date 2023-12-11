@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453451146620",
+    "project_id": "proyecto-notasapp",
+    "storage_bucket": "proyecto-notasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453451146620:android:0256e96c59bbf0c25af0f9",
+        "android_client_info": {
+          "package_name": "com.chunmaru.appnotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAjbRB0j2y-bPGXOrilVK9-q1fVnuY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
